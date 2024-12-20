@@ -70,11 +70,8 @@ Para ejecutar y trabajar con el código de este repositorio, necesitarás:
 
 3. **Ejecutar un ejercicio**:
    ```bash
-   python ejercicios/ejercicio1.py
+   python "Trabajos prácticos/tp00ej01.py"
    ```
-
-4. **Revisar la teoría**:  
-   Abre los archivos en `teoria/` con tu editor de texto o navegador.
 
 ## Contacto
 
