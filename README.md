@@ -1,4 +1,3 @@
-
 # Programación 1
 
 **Autor:** [David Yaps](https://github.com/davidyaps)  
@@ -19,16 +18,16 @@ Este repositorio contiene el material y los ejercicios del curso de **Programaci
 programacion_1/
 ├── Trabajos prácticos/
 │   ├── Trabajo práctico 0 - Matrices
-│	│	├── Trabajo práctico 0 - Matrices.pdf
-│	│	├── tp00ej01.py
-│	│	├── tp00ej02.py
-│   │	└── ...
+│   ├── Trabajo práctico 0 - Matrices.pdf
+│   │   ├── tp00ej01.py
+│   │   ├── tp00ej02.py
+│   │   └── ...
 │   ├── Trabajo práctico 1 - ID y Tuplas
-│	│	├── Trabajo práctico 1 - ID y Tuplas.pdf
-│	│	├── tp01ej01.py
-│	│	├── tp01ej02.py
-│   │	└── ...
-│	└── ...
+│   │   ├── Trabajo práctico 1 - ID y Tuplas.pdf
+│   │   ├── tp01ej01.py
+│   │   ├── tp01ej02.py
+│   │   └── ...
+│   └── ...
 ├── README.md
 └── .gitignore
 ```
