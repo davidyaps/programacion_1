@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Oli",
+        "dia": 7,
+        "mes": 8,
+        "anio": 2017
+    },
+    {
+        "nombre": "David",
+        "dia": 17,
+        "mes": 3,
+        "anio": 1984
+    },
+    {
+        "nombre": "Gabriela",
+        "dia": 13,
+        "mes": 2,
+        "anio": 1984
+    }
+]
